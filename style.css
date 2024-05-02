@@ -1,0 +1,35 @@
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 200px;
+    height: 250px;
+}
+input[type="text"] { 
+    padding: 10px 10px; 
+    font-size: 12px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px; 
+    border: 2px solid black;
+} 
+input[type="button"]{
+    width: 50px;
+    height:50px;
+    padding: 2px;
+    align-items:center;
+    background-color:rgb(148, 70, 222);
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+
+    
+}
+body{
+    background-color:burlywood;
+}
+#calcu{
+    background-color: aqua;
+
+}
+
